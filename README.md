@@ -1,4 +1,5 @@
-# 💳 Card-Reco Project <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Python&logoColor=white"/></a> <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Python&logoColor=white"/></a> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/></a> <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=OpenCV&logoColor=white"/></a> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
+# 💳 Card-Reco Project 
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Python&logoColor=white"/></a> <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Python&logoColor=white"/></a> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/></a> <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=OpenCV&logoColor=white"/></a> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
 
 
 * 목표: 상황, 때에 맞는 소비를 위한 맞춤형 카드 추천
